@@ -61,6 +61,16 @@ hr {
 .address-bar {
     display: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition:all 0.3s ease;
+}
+
+.brand:hover{
+   color: burlywood;
+   -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+        transition:all 0.3s ease;
+
 }
 
 .navbar-brand {
