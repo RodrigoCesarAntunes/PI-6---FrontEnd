@@ -60,7 +60,6 @@ hr {
 .brand,
 .address-bar {
     display: none;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     transition:all 0.3s ease;
 }
 
